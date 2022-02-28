@@ -1,0 +1,11 @@
+* {
+ background-color: white;
+ color: black;
+}
+
+.container {
+    display: flex;
+    gap: 10px;
+    column-gap: 10px;
+    row-gap: 15px;
+}

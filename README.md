@@ -4,4 +4,4 @@
 ## This repo will contain all assignment based projects / daily tasks.
 - [ ] Foundations
 - [ ] Full-Stack JavaScript
-- [ ] Recommended Side Projects 
+- [ ] Misc. Side Projects

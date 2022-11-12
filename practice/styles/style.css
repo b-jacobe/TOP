@@ -1,9 +1,14 @@
 * {
  background-color: white;
  color: black;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-.header, .about-me, .tech-stack {
+.header {
+    text-align: center;
+}
+
+.about-me, .tech-stack {
     text-align: center;
     margin: auto;
 }
@@ -14,7 +19,7 @@ ul {
     padding: 0;
 }
 
-.container {
+.portfolio-container {
     display: flex;
     gap: 10px;
     column-gap: 10px;

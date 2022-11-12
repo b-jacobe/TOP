@@ -26,6 +26,17 @@ ul {
     row-gap: 15px;
 }
 
+.contact-me {
+    text-align: center;
+}
+
+.contact-icon {
+    display: flex;
+    gap: 5px;
+    column-gap: 5px;
+    row-gap: 5px;
+}
+
 #footer {
     text-align: center;
     position: fixed;

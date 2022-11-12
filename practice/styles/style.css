@@ -3,6 +3,17 @@
  color: black;
 }
 
+.header, .about-me, .tech-stack {
+    text-align: center;
+    margin: auto;
+}
+
+ul {
+    text-align: center;
+    list-style: inside;
+    padding: 0;
+}
+
 .container {
     display: flex;
     gap: 10px;

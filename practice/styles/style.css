@@ -21,6 +21,8 @@ ul {
 
 .portfolio-container {
     display: flex;
+    align-items: center;
+    justify-content: center;
     gap: 10px;
     column-gap: 10px;
     row-gap: 15px;

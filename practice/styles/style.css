@@ -8,15 +8,22 @@
     text-align: center;
 }
 
-.about-me, .tech-stack {
-    text-align: center;
-    margin: auto;
+div.center {
+    margin-left: auto;
+    margin-right: auto;
+    display: table;
+}
+ul {
+    text-align: left;
 }
 
-ul {
+#tech-stack {
     text-align: center;
-    list-style: inside;
-    padding: 0;
+}
+
+.about-me {
+    text-align: center;
+    margin: auto;
 }
 
 .portfolio-container {

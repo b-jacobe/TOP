@@ -12,6 +12,7 @@ h1, h3 {
 }
 .hyperlink {
     font-size: 24px;
+    text-align: center;
 }
 .recipe-image {
     display: block;

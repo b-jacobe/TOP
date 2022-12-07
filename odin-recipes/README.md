@@ -6,11 +6,11 @@
 ![Leche Flan](https://www.sbs.com.au/food/sites/sbs.com.au.food/files/styles/full/public/images/3809_leche-flan.jpg?itok=-4TqYlMz)
 
 <details><summary><b>Preview</b></summary>
-1. **Course** &emsp; Dessert
-2. **Cuisine** &emsp; Filipino
-3. **Prep Time** &emsp; 10-15 minutes
-4. **Cook Time** &emsp; 30 minutes
-5. **Cooldown Time** &emsp; 3-4 hours
-6. **Servings** &emsp; 4-5 people
-7. **Author** &emsp; Brian Jacobe
+1. Course &emsp; Dessert<br />
+2. Cuisine &emsp; Filipino <br />
+3. Prep Time &emsp; 10-15 minutes <br />
+4. Cook Time &emsp; 30 minutes <br />
+5. Cooldown Time &emsp; 3-4 hours <br />
+6. Serving &emsp; 4-5 people <br />
+7. Author &emsp; Brian Jacobe
 </details>

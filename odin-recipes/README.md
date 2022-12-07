@@ -6,10 +6,10 @@
 ![Leche Flan](https://panlasangpinoy.com/wp-content/uploads/2009/07/Leche-Flan_-360x361.jpg)
 
 ### Preview
-* **Course** Dessert
-* **Cuisine** Filipino
-* **Prep Time** 10-15 minutes
-* **Cook Time** 30 minutes
-* **Cooldown Time** 3-4 hours
-* **Servings** 4-5 people
-* **Author** Brian Jacobe
+* **Course** &emsp;Dessert
+* **Cuisine** &emsp;Filipino
+* **Prep Time** &emsp;10-15 minutes
+* **Cook Time** &emsp;30 minutes
+* **Cooldown Time** &emsp;3-4 hours
+* **Servings** &emsp;4-5 people
+* **Author** &emsp;Brian Jacobe

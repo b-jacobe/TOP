@@ -13,3 +13,4 @@
 * **Cooldown Time** &emsp; 3-4 hours
 * **Servings** &emsp; 4-5 people
 * **Author** &emsp; Brian Jacobe
+</details>

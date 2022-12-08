@@ -1,0 +1,22 @@
+.simple-red{
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+    background-color: #FEA7A7;
+    color: black;
+    font-size: 18px;
+}
+#special-blue{
+    font-size: 36px;
+    color: blue;
+    background-color: white;
+}
+
+.special-red.simple-red {
+    font-size: 24px;
+}
+
+#special-green{
+    background-color: #80FF80;
+    color: black;
+    font-weight: bold;
+    font-size: 24px;
+}

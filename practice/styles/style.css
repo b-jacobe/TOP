@@ -49,6 +49,11 @@ ul {
     row-gap: 5px;
 }
 
+.contact-icon .single-icon {
+    width: 25px;
+    height: 28px;
+}
+
 #footer {
     text-align: center;
     position: fixed;

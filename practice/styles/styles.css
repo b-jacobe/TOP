@@ -37,12 +37,31 @@ div.tech-stack {
 
 .portfolio-container {
     display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
     align-items: center;
     justify-content: center;
+    max-width: 1500px;
+    margin: 0 auto;
+    padding: 20px 10px;
     gap: 10px;
     column-gap: 10px;
     row-gap: 15px;
 }
+
+.projects {
+    max-width: 500px;
+    width: 400px;
+    height: 280px;
+    overflow: auto;
+}
+/* div.portfolio-container {
+    width: 100%;
+    max-width: 350px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 10px;
+} */
 
 .contact-me {
     text-align: center;

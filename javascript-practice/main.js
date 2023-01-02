@@ -28,3 +28,12 @@ const MAX = 57;
 let actual = MAX - 13;
 let percentage = actual / MAX;
 console.log(percentage);
+
+const button = document.querySelector("button");
+
+let greeting = () => {
+    const name = prompt("What is your name?");
+    alert(`Hello ${name}, nice to meet you!`);
+}
+
+button.addEventListener("click", greeting);

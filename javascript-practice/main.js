@@ -29,14 +29,14 @@ let actual = MAX - 13;
 let percentage = actual / MAX;
 console.log(percentage);
 
-// const button = document.querySelector("button");
+const button = document.querySelector("button");
 
-// let greeting = () => {
-//     const name = prompt("What is your name?");
-//     alert(`Hello ${name}, nice to meet you!`);
-// }
+let greeting = () => {
+    const name = prompt("What is your name?");
+    alert(`Hello ${name}, nice to meet you!`);
+}
 
-// button.addEventListener("click", greeting);
+button.addEventListener("click", greeting);
 
 console.log('--------------------------------');
 console.log('Foundation Fundamentals Part 2');
@@ -65,3 +65,34 @@ let checkAge = (userAge) => {
 
 console.log(checkAge(userAge));
 console.log(checkAge(35));
+// Case Practice
+const select = document.querySelector('select');
+const para = document.querySelector('p');
+
+select.addEventListener('change', setWeather);
+
+function setWeather() {
+    const choice = select.value;
+
+    switch (choice) {
+        case 'sunny':
+        para.textContent = 'It is nice and sunny outside today. Wear shorts! Go to the beach, or the park, and get an ice cream.';
+        break;
+        case 'rainy':
+        para.textContent = 'Rain is falling outside; take a rain coat and an umbrella, and don\'t stay out for too long.';
+        break;
+        case 'snowing':
+        para.textContent = 'The snow is coming down — it is freezing! Best to stay in with a cup of hot chocolate, or go build a snowman.';
+        break;
+        case 'overcast':
+        para.textContent = 'It isn\'t raining, but the sky is grey and gloomy; it could turn any minute, so take a rain coat just in case.';
+        break;
+        default:
+        para.textContent = '';
+    }
+}
+//arrow function practice
+const textBox = document.querySelector("#textBox");
+const output = document.querySelector("#output");
+
+textBox.addEventListener('keydown', (event) => output.textContent = `You pressed "${event.key}".`);

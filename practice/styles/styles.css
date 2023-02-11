@@ -38,6 +38,10 @@ div.tech-stack {
     margin: auto;
 }
 
+.project-title {
+    text-align:center;
+}
+
 .about-me {
     text-align: center;
     margin: auto;

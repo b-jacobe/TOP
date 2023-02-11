@@ -1,3 +1,11 @@
+/* 
+    Color Palette:
+        #04080F - Navigation
+        #507DBC
+        #A1C6EA
+        #BBD1EA
+        #DAE3E5 - Project container color
+*/
 body {
     width: 100%;
     height: 100vh;
@@ -28,6 +36,7 @@ ul {
 div.tech-stack {
     text-align: center;
     margin: auto;
+    border: 5px solid red;
 }
 
 .about-me {
@@ -54,6 +63,7 @@ div.tech-stack {
     width: 400px;
     height: 280px;
     overflow: auto;
+    background-color: #DAE3E5;
 }
 /* div.portfolio-container {
     width: 100%;
@@ -149,7 +159,7 @@ label {
 }
 
 .topnav {
-background-color: #333;
+background-color: #04080F;
 overflow: hidden;
 }
 
@@ -168,6 +178,6 @@ color: black;
 }
 
 .topnav a.active {
-background-color: #04AA6D;
+background-color: #507DBC;
 color: white;
 }

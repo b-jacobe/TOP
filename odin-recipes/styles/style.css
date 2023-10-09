@@ -4,15 +4,17 @@ body {
 }
 h1, h3 {
     text-align: center;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .header-image {
-    width: 60px;
-    height: 60px;
+    width: 40px;
+    height: 40px;
 }
 .hyperlink {
     font-size: 24px;
     text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .recipe-image {
     display: block;
